@@ -42,6 +42,11 @@ connect wit me:
   <summary>:Rishu: Github Stats</summary>
   <img align="left" alt="Rishu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true" />
 </details>
+<br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RishuRajan.RishuRajan)
-[![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) <br>
+[![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) 
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan&langs_count=8)](https://github.com/RishuRajan/github-readme-stats)
