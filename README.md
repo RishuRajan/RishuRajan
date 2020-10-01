@@ -49,4 +49,12 @@ connect wit me:
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan&langs_count=8)](https://github.com/RishuRajan/github-readme-stats)
+### Beispiel
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan)](https://github.com/RishuRajan/github-readme-stats)
+
+- Kompaktes Layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan&layout=compact)](https://github.com/RishuRajan/github-readme-stats)
+
+---
