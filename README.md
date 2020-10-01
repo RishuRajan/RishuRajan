@@ -49,12 +49,3 @@ connect wit me:
 
 </br>
 
-### Beispiel
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan)](https://github.com/RishuRajan/github-readme-stats)
-
-- Kompaktes Layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan&layout=compact)](https://github.com/RishuRajan/github-readme-stats)
-
----
