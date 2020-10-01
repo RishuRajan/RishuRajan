@@ -32,7 +32,7 @@
 <br />
 
 ---
-##connect wit me:
+###connect wit me:
 
 [![](https://img.shields.io/badge/LinkedIn-rishurajan-blue)](https://www.linkedin.com/in/rishu-r-512007156/)
 [![](https://img.shields.io/badge/Gmail-rishurajan57-red)](mailto:rishurajan57@gmail.com)
@@ -40,7 +40,8 @@
 ---
 <details>
   <summary>:Rishu: Github Stats</summary>
-
   <img align="left" alt="Rishu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true" />
-
 </details>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RishuRajan.RishuRajan)
+[![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) <br>
