@@ -32,7 +32,7 @@
 <br />
 
 ---
-###connect wit me:
+connect wit me:
 
 [![](https://img.shields.io/badge/LinkedIn-rishurajan-blue)](https://www.linkedin.com/in/rishu-r-512007156/)
 [![](https://img.shields.io/badge/Gmail-rishurajan57-red)](mailto:rishurajan57@gmail.com)
