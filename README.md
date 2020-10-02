@@ -3,7 +3,7 @@
 ## I'm a , Competitive coder,web Developer, and AI Enthusiast!
 
 - 🔭 I’m currently working on open source.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with others.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
