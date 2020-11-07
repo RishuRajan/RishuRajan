@@ -42,6 +42,13 @@ connect wit me:
   <summary>:Rishu: Github Stats</summary>
   <img align="left" alt="Rishu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true" />
 </details>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Rishu's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan" />
+
+</details>
+
 <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RishuRajan.RishuRajan)
