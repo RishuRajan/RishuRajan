@@ -1,3 +1,7 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome To My Github Profile.</h1>
+
+
+ 
 ### Hi there, I'm Rishu Rajan 👋
 
 ## I'm a , Competitive coder,web Developer, and AI Enthusiast!
@@ -95,4 +99,9 @@ connect wit me:
 	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RishuRajan/CompetitiveProgramming?style=flat-square&labelColor=343b41"/></td>
     </tr>
      </thead>
-  <tbody>
+  </tbody>
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some weekly stats ?   
+![Rishu Rajan's's GitHub Statss](https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&theme=radical)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan&show_icons=true&theme=radical)](https://github.com/RishuRajan/github-readme-stats)
