@@ -54,5 +54,45 @@ connect wit me:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RishuRajan.RishuRajan)
 [![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) 
 
-</br>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Repository</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	<td><a href="https://github.com/RishuRajan/Data-Science"><b>Data science</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/RishuRajan/Data-Science?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/RishuRajan/Data-Science?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/RishuRajan/Data-Science?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RishuRajan/Data-Science?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Repository</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr>
+	<td><a href="https://github.com/RishuRajan/CompetitiveProgramming"><b>Competitive Programming</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/RishuRajan/CompetitiveProgramming?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/RishuRajan/CompetitiveProgramming?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/RishuRajan/CompetitiveProgramming?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RishuRajan/CompetitiveProgramming?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     </thead>
+  <tbody>
