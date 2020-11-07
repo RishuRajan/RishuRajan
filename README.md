@@ -100,6 +100,7 @@ connect wit me:
     </tr>
      </thead>
   </tbody>
+  </table>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some weekly stats ?   
 ![Rishu Rajan's's GitHub Statss](https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&theme=radical)
