@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome To My Github Profile.</h1>
+
 
 ![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
 ![github](https://github.com/RishuRajan/RishuRajan/blob/master/GITHUB%20PROFILE%20PIC.jpeg)
