@@ -1,9 +1,13 @@
 
 
 ![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
-![github](https://github.com/RishuRajan/RishuRajan/blob/master/GITHUB%20PROFILE%20PIC.jpeg)
+
+
  
 ## I'm Rishu Rajan, Competitive coder,web Developer, and AI Enthusiast!
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+  
 
 - 🔭 I’m currently working on open source.
 - 🌱 I’m currently learning everything.
@@ -11,6 +15,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -101,7 +106,12 @@ connect wit me:
   </tbody>
   </table>
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some weekly stats ?   
-![Rishu Rajan's's GitHub Statss](https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&theme=radical)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan&show_icons=true&theme=radical)](https://github.com/RishuRajan/github-readme-stats)
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&theme=gotham" alt="RishuRajan" />
+
+
+
+
+
