@@ -9,10 +9,10 @@
   
   
 
-- 🔭 I’m currently working on open source.
-- 🌱 I’m currently learning everything.
+- 🔭 I’m currently working on python Projects in swoc.
+- 🌱 I’m currently learning Fronted Development.
 - 👯 I’m looking to collaborate with others.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 <br />
 
