@@ -58,7 +58,7 @@ connect wit me:
 
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RishuRajan.RishuRajan)
+
 [![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) 
 
 <table>
@@ -110,7 +110,7 @@ connect wit me:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&theme=gotham" alt="RishuRajan" />
 
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 
