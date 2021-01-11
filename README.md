@@ -4,7 +4,7 @@
 
 
  
-## I'm Rishu Rajan, Competitive coder,web Developer, and AI Enthusiast!
+## I'm Rishu Rajan, Competitive Coder,Web Developer and AI Enthusiast!
  <img align="right" alt="GIF" src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu.gif?raw=true" width="500" height="320" />
   
 
