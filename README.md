@@ -45,17 +45,16 @@ connect wit me:
 [![](https://img.shields.io/badge/Gmail-rishurajan57-red)](mailto:rishurajan57@gmail.com)
 [![](https://img.shields.io/badge/hackerearth-rishurajan82-brightgreen)](https://www.hackerearth.com/@rishurajan82)
 ---
+
+
 <details>
   <summary>:Rishu: Github Stats</summary>
   <img align="left" alt="Rishu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true" />
-</details>
-<details>
+
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Rishu's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan" />
-
+   <img align="left" alt="Rishu's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan" />
 </details>
-
 <br>
 
 
