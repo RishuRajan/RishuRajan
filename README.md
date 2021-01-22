@@ -1,5 +1,5 @@
 
-### Hi there 👋 <img src="https://github.com/RishuRajan/RishuRajan/blob/master/Hello.gif" width="500px">
+### Hey There 👋 <img src="https://github.com/RishuRajan/RishuRajan/blob/master/Hello.gif" width="500px">
 ![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
 
 
