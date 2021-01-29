@@ -46,19 +46,16 @@ connect wit me:
 [![](https://img.shields.io/badge/hackerearth-rishurajan82-brightgreen)](https://www.hackerearth.com/@rishurajan82)
 ---
 
-
-<details>
   <summary>:Rishu: Github Stats</summary>
   <img align="left" alt="Rishu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true" />
 
   <summary>:zap: Most Used Languages</summary>
 
    <img align="left" alt="Rishu's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan" />
-</details>
 <br>
 
 
-[![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) 
+
 
 <table>
   <thead align="center">
@@ -105,9 +102,7 @@ connect wit me:
   </table>
 
 
-📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&theme=gotham" alt="RishuRajan" />
 
 <p align="center">
 
