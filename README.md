@@ -1,7 +1,8 @@
 
+
 ### Hey There 👋 <img src="https://github.com/RishuRajan/RishuRajan/blob/master/Hello.gif" width="500px">
 ![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
-
+[![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) 
 
  
 ## I'm Rishu Rajan, Competitive Coder,Web Developer and AI Enthusiast!
