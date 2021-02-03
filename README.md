@@ -92,7 +92,7 @@ connect wit me:
   <tbody>
 
 <tr>
-	<td><a href="https://github.com/RishuRajan/CompetitiveProgramming"><b>Competitive Programming</b></a></td>
+	<td><a href="https://github.com/RishuRajan/Data-Structure-And-Algorithm-with-Competitive-Programming"><b>Data-Structure-And-Algorithm-with-Competitive-Programming</b></a></td>
 	<td><img alt="Stars" src="https://img.shields.io/github/stars/RishuRajan/CompetitiveProgramming?style=flat-square&labelColor=343b41"/></td>
 	<td><img alt="Forks" src="https://img.shields.io/github/forks/RishuRajan/CompetitiveProgramming?style=flat-square&labelColor=343b41"/></td>
 	<td><img alt="Issues" src="https://img.shields.io/github/issues/RishuRajan/CompetitiveProgramming?style=flat-square&labelColor=343b41"/></td>
