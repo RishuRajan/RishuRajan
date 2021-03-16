@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning Fronted Development.
 - 👯 I’m looking to collaborate with others.
 - 🥅 2021 Goals: Contribute more to Open Source projects And Try to Be part of GSOC 2021.
-
 <br />
 
 ### Languages and Tools:
