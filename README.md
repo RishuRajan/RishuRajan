@@ -94,6 +94,27 @@ connect wit me:
      </thead>
   </tbody>
   </table>
+  
+  <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Repository</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	<td><a href="https://github.com/RishuRajan/Python-And-Python-Projects"><b>PYTHON MINI PROJECTS</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/RishuRajan/Python-And-Python-Projects?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/RishuRajan/Python-And-Python-Projects?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/RishuRajan/Python-And-Python-Projects?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RishuRajan/Python-And-Python-Projects?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
 
