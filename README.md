@@ -46,7 +46,7 @@ connect wit me:
  
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true) 
 <table>
