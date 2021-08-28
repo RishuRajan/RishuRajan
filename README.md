@@ -4,10 +4,10 @@
 <!-- [![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) -->
 
  
-## I'm Rishu Rajan, Competitive Coder,Web Developer and AI Enthusiast!
+## I'm Rishu Rajan
  <img align="right" alt="GIF" src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu.gif?raw=true" width="500" height="320" />
   
-  🔭 I’m currently working on python Projects.
+  <!--🔭 I’m currently working on python Projects.-->
 - 🌱 I’m currently learning Full Stack Developement
 - 👯 I’m looking to collaborate with others.
 - 🥅 2021 Goals: Contribute more to Open Source project.
@@ -29,7 +29,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/-Express%20-333333?style=flat&logo=express) -->
 - 🛢 &nbsp;
- <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
+ ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql) 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -38,7 +38,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-#connect with me:
+### connect with me:
 	
 [![](https://img.shields.io/badge/LinkedIn-rishurajan-blue)](https://www.linkedin.com/in/rishu-r-512007156/)
 [![](https://img.shields.io/badge/Gmail-rishurajan57-red)](mailto:rishurajan57@gmail.com)
