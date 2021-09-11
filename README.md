@@ -4,11 +4,12 @@
 <!-- [![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) -->
 
  
-## I'm Rishu Rajan
+<p align="center"> <h1> I'm Rishu Rajan &emsp;</h1></p>
+<p>Have a look on my <strong> <a href = "">portfolio </a></strong> </p>
  <img align="right" alt="GIF" src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu.gif?raw=true" width="500" height="320" />
   
   <!--🔭 I’m currently working on python Projects.-->
-- 🌱 I’m currently learning Full Stack Developement
+- 🌱 I’m currently Improving My Problem Solving & learning Full Stack Developement
 - 👯 I’m looking to collaborate with others.
 - 🥅 2021 Goals: Contribute more to Open Source project.
 <br />
