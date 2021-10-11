@@ -5,7 +5,7 @@
 
  
 <p align="center"> <h1> I'm Rishu Rajan &emsp;</h1></p>
-<p>Have a look on my <strong> <a href = "https://rishurajan.github.io/NewPortfolio.github.io/index.html">PORTFOLIO </a></strong> </p>
+<p>Have a look on my <strong> <a href = "">PORTFOLIO </a></strong> </p>
  <img align="right" alt="GIF" src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu.gif?raw=true" width="500" height="320" />
   
   <!--🔭 I’m currently working on python Projects.-->
