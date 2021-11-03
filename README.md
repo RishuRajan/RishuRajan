@@ -113,6 +113,29 @@
   </tbody>
 </table>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Repository</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr>
+	<td><a href="https://github.com/RishuRajan/Hacktoberfest_2021"><b>Hacktoberfest 2021</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/RishuRajan/Hacktoberfest_2021?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/RishuRajan/Hacktoberfest_2021?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/RishuRajan/Hacktoberfest_2021?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RishuRajan/Hacktoberfest_2021?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     </thead>
+  </tbody>
+  </table>
+
 <!--
 <p align="center">
 
