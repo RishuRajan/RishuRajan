@@ -1,5 +1,5 @@
 
-### Hey There 👋 <img src="https://github.com/RishuRajan/RishuRajan/blob/master/Hello.gif" width="500px">
+### Hey There 👋👩🏾‍💻<img src="https://github.com/RishuRajan/RishuRajan/blob/master/Hello.gif" width="500px">
 ![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
 <!-- [![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) -->
 
@@ -154,5 +154,8 @@
 <br>
 	
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+## 😎Snake Enjoying 2021 Contributions
+## <img src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu_Rajan_Contribution_2021.svg" width="1000px">
 
 
