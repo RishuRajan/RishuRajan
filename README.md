@@ -44,7 +44,7 @@
 [![](https://img.shields.io/badge/LinkedIn-rishurajan-blue)](https://www.linkedin.com/in/rishu-r-512007156/)
 [![](https://img.shields.io/badge/Gmail-rishurajan57-red)](mailto:rishurajan57@gmail.com)
 [![](https://img.shields.io/badge/hackerearth-rishurajan82-brightgreen)](https://www.hackerearth.com/@rishurajan82)
-[![](https://img.shields.io/badge/Codechef-rishu82-brightgreen)](https://www.codechef.com/users/rishu82)
+<!-- [![](https://img.shields.io/badge/Codechef-rishu82-brightgreen)](https://www.codechef.com/users/rishu82) -->
 
 	
 <br>
