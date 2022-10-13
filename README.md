@@ -11,7 +11,7 @@
   <!--🔭 I’m currently working on python Projects.-->
 - 🌱 I’m currently Improving My Problem Solving & learning Full Stack Developement
 - 👯 I’m looking to collaborate with others.
-- 🥅 2021 Goals: Contribute more to Open Source project.
+- 🥅 2022 Goals: Contribute more to Open Source project.
 <br />
 
 
@@ -155,7 +155,7 @@
 	
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-## 😎Snake Enjoying 2021 Contributions
+## 😎Snake Enjoying 2021 Contributions of Github
 ## <img src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu_Rajan_Contribution_2021.svg" width="1000px">
 
 
