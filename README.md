@@ -1,17 +1,17 @@
 
 ### Hey There 👋👩🏾‍💻<img src="https://github.com/RishuRajan/RishuRajan/blob/master/Hello.gif" width="500px">
-![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
+![Profile Count](https://komarev.com/ghpvc/?username=RishuRajan) 
 <!-- [![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) -->
 
  
 <p align="center"> <h1> I'm Rishu Rajan &emsp;</h1></p>
 <p>Have a look on my <strong> <a href = "https://rishurajan.github.io/NewPortfolio.github.io/index.html">PORTFOLIO </a></strong> </p>
- <img align="right" alt="GIF" src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/RishuRajan/RishuRajan/blob/master/new_image_2023.gif+?raw=true" width="500" height="320" />
   
-  <!--🔭 I’m currently working on python Projects.-->
-- 🌱 I’m currently Improving My Problem Solving & learning Full Stack Developement
+  <!--🔭 I’m currently working on Data Engineering Projects-->
+- 🌱 I’m currently Improving My Problem Solving & Data Engineering Concepts
 - 👯 I’m looking to collaborate with others.
-- 🥅 2022 Goals: Contribute more to Open Source project.
+- 🥅 2023 Goals: Contribute more to Open Source project.
 <br />
 
 
@@ -152,10 +152,13 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true&theme=tokyonight" alt="RishuRajan" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuRajan&hide_border=true&theme=tokyonight" alt="RishuRajan" /> </p>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=RishuRajan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="RishuRajan" /> </p>
 <br>
-	
+
+<!--
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
 ## 😎Snake Enjoying 2021 Contributions of Github
 ## <img src="https://github.com/RishuRajan/RishuRajan/blob/master/Rishu_Rajan_Contribution_2021.svg" width="1000px">
+-->
 
 
