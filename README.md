@@ -1,19 +1,40 @@
 
+<!--
 ### Hey There 👋👩🏾‍💻<img src="https://github.com/RishuRajan/RishuRajan/blob/master/Hello.gif" width="500px">
 ![Profile Count](https://komarev.com/ghpvc/?username=RishuRajan) 
-<!-- [![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) -->
-
- 
+[![HitCount](http://hits.dwyl.com/RishuRajan/RishuRajan/RishuRajan.svg)](http://hits.dwyl.com/RishuRajan/RisuRajan/RishuRajan) 
 <p align="center"> <h1> I'm Rishu Rajan &emsp;</h1></p>
 <p>Have a look on my <strong> <a href = "https://rishurajan.github.io/NewPortfolio.github.io/index.html">PORTFOLIO </a></strong> </p>
  <img align="right" alt="GIF" src="https://github.com/RishuRajan/RishuRajan/blob/master/new_image_2023.gif+?raw=true" width="500" height="320" />
   
-  <!--🔭 I’m currently working on Data Engineering Projects-->
+  🔭 I’m currently working on Data Engineering Projects
 - 🌱 I’m currently Improving My Problem Solving & Data Engineering Concepts
 - 👯 I’m looking to collaborate with others.
 - 🥅 2023 Goals: Contribute more to Open Source project.
 <br />
 
+-->
+
+
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
+
+<br/>
+<br/>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝a Engineering Projects **
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Data Engineering Concepts And Improving my problem Solving. **
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **open source Projects. **
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+
+<br/>
+<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -145,13 +166,15 @@
 </p>
 -->
 
-
-
-
+<br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true&theme=tokyonight" alt="RishuRajan" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuRajan&hide_border=true&theme=tokyonight" alt="RishuRajan" /> </p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=RishuRajan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="RishuRajan" /> </p>
 <br>
+<!--
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=RishuRajan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="RishuRajan" /> </p>
+-->
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=RishuRajan&theme=react-dark&hide_border=true&area=true)
 
 <!--
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
