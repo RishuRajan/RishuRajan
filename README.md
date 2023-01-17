@@ -167,8 +167,11 @@
 -->
 
 <br/>
+<!--
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true&theme=tokyonight" alt="RishuRajan" /> 
+-->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RishuRajan&show_icons=true&hide_border=true&theme=tokyonight" alt="RishuRajan" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuRajan&hide_border=true&theme=tokyonight" alt="RishuRajan" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuRajan&hide_border=true&theme=tokyonight" alt="RishuRajan" /> </p>
 <br>
 <!--
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=RishuRajan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="RishuRajan" /> </p>
